@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - border
+  - player_bullet
+  - enemy
+  - enemy_bullet
+  - enemy_border
+  - item
+  - granade
+  - bottom
+  - item_granade
+  - store
+  - wave_start_botton
+  - barricade
+  - big_enemy
+  - item_barricade
+  - item_coin
+  - boss_en_bullet
+  - enemy_melee
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - border
+  - bottom
+  - bullets
+  - enemy
+  - player
+  - enemydead
+  - playerdead
+  - enemy_melee
+  - item
+  - granade
+  - en_bullet
+  - barricade
+  - effects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: effect
+    uniqueID: 480252799
+    locked: 0
