@@ -1,7 +1,7 @@
 # Survival-uzuhama
 A fan game. MADE BY Junhachoi
 
-#우주하마 유튜브 영상
+# 우주하마 유튜브 영상
 https://youtu.be/gYzliyYSZZ8
 
 # 네이버 카페
