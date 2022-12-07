@@ -28,3 +28,5 @@ https://youtu.be/gYzliyYSZZ8
 https://cafe.naver.com/uzuhama?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D30027092%2526articleid%3D146279
 
 ### 게임 다운로드
+위에 survival uzuhama (1).zip 을 누르고 다운로드
+https://github.com/Junhachoi-DEV/Survival-uzuhama/blob/main/survival%20uzuhama%20(1).zip
