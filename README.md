@@ -26,3 +26,6 @@ https://youtu.be/gYzliyYSZZ8
 
 ### 네이버 카페
 https://cafe.naver.com/uzuhama?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D30027092%2526articleid%3D146279
+
+### 게임 다운로드
+file:///C:/Users/%EC%B5%9C%EC%A4%80%ED%95%98/Downloads/survival%20uzuhama%20(1).zip
