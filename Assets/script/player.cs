@@ -407,24 +407,27 @@ public class player : MonoBehaviour
     {
         if (Input.GetButtonDown("swich_weapon"))
         {
-            if(ammo > 0)
+            is_swich_weapon = !is_swich_weapon;
+            if (is_swich_weapon)
             {
-                is_swich_weapon = true;
-                has_item = false;
-                play_sounds("audio_change_weapon");
-                hand_gun.SetActive(true);
-                mushin_gun.SetActive(false);
+                if (ammo > 0)
+                {
+                    has_item = false;
+                    play_sounds("audio_change_weapon");
+                    hand_gun.SetActive(true);
+                    mushin_gun.SetActive(false);
+                }
             }
-        }
-        else if (Input.GetButtonDown("swich_weapon2"))
-        {
-            if(ammo > 0)
+            else
             {
-                is_swich_weapon = false;
-                has_item = true;
-                play_sounds("audio_change_weapon");
-                hand_gun.SetActive(false);
-                mushin_gun.SetActive(true);
+                if (ammo > 0)
+                {
+                    is_swich_weapon = false;
+                    has_item = true;
+                    play_sounds("audio_change_weapon");
+                    hand_gun.SetActive(false);
+                    mushin_gun.SetActive(true);
+                }
             }
         }
     }
